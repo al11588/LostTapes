@@ -5,9 +5,9 @@ This is a collection of some coding tests that I got lazy to throughly finish. H
 
 # Coding Tests:
 
-* CSV Test: The bio field contains text with arbitrary padding, spacing and line breaks. Normalize these values to a space-delimited string.
+* [CSV Test]: The bio field contains text with arbitrary padding, spacing and line breaks. Normalize these values to a space-delimited string.
 
-* CSV Test 2: There is a supplementary CSV file for download here: state_abbreviations.csv. This "data dictionary" contains state abbreviations alongside state names. For the state field of the input CSV, replace each state abbreviation with its associated state name from the data dictionary.
+* [CSV Test 2]: There is a supplementary CSV file for download here: state_abbreviations.csv. This "data dictionary" contains state abbreviations alongside state names. For the state field of the input CSV, replace each state abbreviation with its associated state name from the data dictionary.
 
 [CSV Test]:https://github.com/al11588/Losttapes/tree/master/CSVTest/csvstringcleaning
 
