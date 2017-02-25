@@ -9,6 +9,10 @@ This is a collection of some coding tests that I got lazy to send out that I fin
 
 * [CSV Test 2]: There is a supplementary CSV file for download here: state_abbreviations.csv. This "data dictionary" contains state abbreviations alongside state names. For the state field of the input CSV, replace each state abbreviation with its associated state name from the data dictionary.
 
+* [Mean Median and Mode]: How do you do mean, median and mode? 
+
 [CSV Test]:https://github.com/al11588/Losttapes/tree/master/CSVTest/csvstringcleaning
 
 [CSV Test 2]:https://github.com/al11588/Losttapes/tree/master/CSVTest/csvcodeswapper
+
+[Mean Median and Mode]:https://github.com/al11588/LostTapes/tree/master/MathTest/meanmedianmode
